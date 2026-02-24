@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "damn",
-  "base_artist": "Fujii Kaze",
-  "createdAt": "2026-02-10T05:35:33.442569Z",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-02-24T01:42:00.697866Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,30 +155,6 @@
       "artist": "藤井 風",
       "has_synced": false,
       "path": "select/pl_01_damn_藤井_風.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "damn",
-      "artist": "藤井 風",
-      "has_synced": false,
-      "path": "select/pl_02_damn_藤井_風.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "damn",
-      "artist": "藤井 風",
-      "has_synced": false,
-      "path": "select/pl_03_damn_藤井_風.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "damn (Fujii Kaze Stadium Live \"Feelin' Good\")",
-      "artist": "藤井 風",
-      "has_synced": false,
-      "path": "select/pl_04_damn_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
     }
   ]
 }
